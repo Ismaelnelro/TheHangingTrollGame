@@ -1,0 +1,3 @@
+# TheHangingTrollGame
+The classic HangMan but with some variations
+El juego es una versión del clásico juego del ahorcado. El objetivo del juego es adivinar una palabra secreta seleccionada al azar. El jugador debe ingresar letras para intentar adivinar la palabra, y cada vez que ingresa una letra incorrecta, se "DESDIBUJA" una parte del cuerpo del personaje en el juego del ahorcado. Si el jugador adivina la palabra antes de que el troll logre desatarse, gana el juego. Si el dibujo del personaje se desata antes de adivinar la palabra, el jugador pierde el juego. El juego tiene como temática la lucha contra un rey troll para salvar a una aldea, y para tener éxito, el jugador debe descubrir la palabra secreta.
